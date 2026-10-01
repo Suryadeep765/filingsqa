@@ -1,0 +1,14 @@
+edgartools
+sentence-transformers
+faiss-cpu
+torch
+ollama
+fastapi
+uvicorn[standard]
+python-dotenv
+tiktoken
+numpy
+pandas
+psutil
+pytest
+httpx
