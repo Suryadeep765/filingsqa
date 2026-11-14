@@ -1,0 +1,12 @@
+.git
+.venv
+__pycache__
+.pytest_cache
+.env
+*.pyc
+.vscode
+.idea
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
